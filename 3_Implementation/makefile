@@ -1,7 +1,11 @@
 # used for comments
 
 #make file syntax
+<<<<<<< HEAD
 #TARGET-NAME: dependencies
+=======
+#TARGET-NAME: Manishsakpal
+>>>>>>> 77c53944b5803cb5b309fa14cdf8160591e78307
 #<TAB SPACE>command
 
 #all.exe:division.c substraction.c multiplication.c addition.c main.c
